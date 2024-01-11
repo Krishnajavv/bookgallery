@@ -1,0 +1,92 @@
+*{
+    margin: 0%;
+    padding: 0%;
+    
+}
+
+
+
+header{
+    background-color: aquamarine;
+    height: 40px;
+    position: sticky;
+    top: 0px;
+    
+
+}
+
+
+header h1{
+    color: brown;
+    font-size:x-large;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    font-style: italic;
+    text-align: center;
+    padding: 5px;
+    
+
+
+
+}
+
+.row
+{
+    background-color: aquamarine;
+    height: 400px;
+    
+    padding: 10px;
+    display: flex;
+    justify-content: space-around;
+
+}
+.col
+{
+    background-color: rgb(63, 158, 126);
+    height: 350px;
+    
+    margin: 10px;
+    padding: 20px;
+
+}
+h2{
+    text-align: center;
+    color: brown;
+    font-family: 'Times New Roman', Times, serif;
+    font-style: italic;
+}
+h4{
+    color: rgb(193, 112, 112);
+    margin: 5px;
+}
+#btn{
+    background-color: blueviolet;
+    color: aliceblue;
+    border-radius: 20px;
+    padding: 5px;
+
+}
+footer{
+    background-color: blanchedalmond;
+    height: 200px;
+    width: 1300px;
+}
+h3{
+    color: rgb(255, 68, 0);
+    text-align: center;
+    font-size: x-large;
+    font-family: 'Courier New', Courier, monospace;
+
+}
+p{
+    color: blue;
+    font-style: italic;
+    margin: 10px;
+
+}
+.banner
+{
+    background-image: url(https://akm-img-a-in.tosshub.com/indiatoday/images/story/201503/books-650-x-418_030915060515.jpg?VersionId=rTeMBN3v.wDktqoGWW2Hy6LmXYvKbZ1u);
+    height: 400px;
+    width: 1200px;
+    
+}
